@@ -1,0 +1,15 @@
+{
+  "name": "com.uitoolkit.test",
+  "version": "1.0.0",
+  "displayName": "Test UI Toolkit",
+  "description": "测试ui Toolkit 相关的代码",
+  "unity": "2020.3",   
+  "dependencies": {
+   
+  },
+  "author": {
+    "name": "laiyier",
+    "email": "laiyierjiangsu@gmail.com",
+    "url": "https://mywebsite.com"
+  }
+}
